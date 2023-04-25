@@ -1,0 +1,209 @@
+    1  git clone git@github.com:Sai-Devesh/Sai-Devesh.github.io.git
+    2  ls -als
+    3  cd Sai-Devesh.github.io
+    4  git add /mnt/c/Users/Devesh/Desktop/profilegit.md
+    5  git add/mnt/c/Users/Devesh/Desktop/profilegit.md
+    6  git add profilegit.md
+    7  git add --all
+    8  git commit -m "first"
+    9  git status
+   10  git push origin main
+   11  git push origin master
+   12  git push -u origin main
+   13  git push -u origin master
+   14  cd
+   15  git clone git@github.com:Sai-Devesh/exam.git
+   16  cd exam
+   17  touch hi
+   18  git add hi
+   19  git status
+   20  git commit -m "first"
+   21  git push origin main
+   22  git push origin master
+   23  cd
+   24  ls
+   25  cd Sai-Devesh.github.io
+   26  cd /
+   27  cd c
+   28  cd mnt
+   29  cd c
+   30  ls
+   31  cd
+   32  cd /
+   33  ls
+   34  cd mnt
+   35  ls
+   36  ls -als
+   37  cd /
+   38  ls
+   39  cd users
+   40  ls
+   41  cd mnt
+   42  cd /
+   43  cd mnt
+   44  ls
+   45  logout
+   46  git clone git@github.com:Sai-Devesh/exam1.git
+   47  cd exam1
+   48  touch hi
+   49  git add hi
+   50  git commit -m "first"
+   51  git push origin main
+   52  git push origin master
+   53  cd /
+   54  ls
+   55  cd mnt
+   56  ls
+   57  cd
+   58  ls
+   59  cd /
+   60  ls
+   61  cd home
+   62  ls
+   63  cd sysad
+   64  ls
+   65  rm -rf Sai-Devesh.github.io
+   66  git clone git@github.com:Sai-Devesh/Sai-Devesh.github.io.git
+   67  echo "# Sai-Devesh.github.io" >> README.md
+   68  gti add README.md
+   69  git add README.md
+   70  cd Sai-Devesh.github.io
+   71  cd
+   72  ls
+   73  rm README.md
+   74  ls
+   75  cd Sai-Devesh.github.io
+   76  echo "# Sai-Devesh.github.io" >> README.md
+   77  git add README.md
+   78  git commit -m "first"
+   79  git push origin master
+   80  pwd
+   81  ls
+   82  git push origin master
+   83  git clone git@github.com:Sai-Devesh/2203103-lab-exam.git
+   84  cd 2203103-lab-exam
+   85  echo "# 2203103-lab-exam" >> README.md
+   86  echo This particular repository is created for keeping track of your shell scripts >> README.md
+   87  cd
+   88  git clone git@github.com:tusharlone/cs102-git-essentials.git
+   89  ls
+   90  cd cs102-git-essentials
+   91  ls
+   92  git pull origin main
+   93  ls
+   94  cd
+   95  ls
+   96  cd 2203103-lab-exam
+   97  pwd
+   98  cd
+   99  ls
+  100  cd cs102-git-essentials
+  101  cp ca_500.csv /users/ug22/2203103/2203103-lab-exam
+  102  cp us_500.csv /users/ug22/2203103/2203103-lab-exam
+  103  cd
+  104  cd 2203103-lab-exam
+  105  ls
+  106  vim part2.sh
+  107  bash part2.sh
+  108  vim part2.sh
+  109  bash part2.sh
+  110  vim part2.sh
+  111  bash part2.sh
+  112  vim part2.sh
+  113  for i in *.csv; do
+  114  wc -l ca_500.csv
+  115  wc -l us_500.csv
+  116  wc -l *.csv
+  117  head n1 *.csv
+  118  head -n1 *.csv
+  119  grep -iw "montreal" *.csv
+  120  wc -l *.csv >> ca_city_Montreal.csv 
+  121  head -n1 *.csv >> ca_city_Montreal.csv 
+  122  grep -iw "montreal" *.csv >> ca_city_Montreal.csv 
+  123  ls
+  124  cat ca_city_Montreal.csv 
+  125  vim part3.sh
+  126  bash part3.sh hello
+  127  vim part3.sh
+  128  bash part3.sh hello
+  129  vim part3.sh
+  130  bash part3.sh
+  131  vim part3.sh
+  132  bash part3.sh hello
+  133  vim part3.sh
+  134  bash part3.sh hello
+  135  vim part3.sh
+  136  bash part3.sh hello
+  137  vim part3.sh
+  138  bash part3.sh hello
+  139  vim part3.sh
+  140  bash part3.sh hello
+  141  vim part3.sh
+  142  bash part3.sh hello
+  143  vim part3.sh
+  144  ls
+  145  vim part3.sh
+  146  bash part3.sh 
+  147  vim part3.sh
+  148  bash part3.sh 
+  149  vim part3.sh
+  150  bash part3.sh ca_500.csv city Montreal
+  151  ls
+  152  cat ca_500.csvcityMontreal.csv
+  153  vim x.sh
+  154  bash x.sh ca-500.csv
+  155  vim part3.sh
+  156  ls
+  157  rm ca_500.csvcityMontreal.csv
+  158  vim part3.sh
+  159  bash part3.sh ca_500.csv city Montreal
+  160  ls
+  161  rm cacityMontreal.csv 
+  162  vim part3.sh
+  163  bash part3.sh us_500.csv city Miami
+  164  ls
+  165  rm us
+  166  rm uscityMiami.csv 
+  167  vim part3.sh
+  168  bash part3.sh us_500.csv city Miami
+  169  ls
+  170  vim part3.sh
+  171  cat city_Miami.csv 
+  172  vim part3.sh
+  173  bash part3.sh us_500.csv city Miami
+  174  ls
+  175  vim part3.sh
+  176  rm city_Miami.csv 
+  177  vim part3.sh
+  178  bash part3.sh us_500.csv city Miami
+  179  ls
+  180  vim part3.sh
+  181  bash part3.sh us_500.csv city Miami
+  182  ls
+  183  vim part3.sh
+  184  bash part3.sh us_500.csv city Miami
+  185  vim part3.sh
+  186  bash part3.sh us_500.csv city Miami
+  187  rm uscityMiami.csv 
+  188  rm city_Miami.csv 
+  189  vim part3.sh
+  190  bash part3.sh us_500.csv city Miami
+  191  ls
+  192  vim part2.sh
+  193  rm part2.sh 
+  194  rm x.sh
+  195  ls
+  196  mkdir code
+  197  mkdir data
+  198  cd code
+  199  cd .
+  200  cd ..
+  201  cp part3.sh ~/2203103-lab-exam/code
+  202  cp *.csv ~/2203103-lab-exam/data
+  203  cd code
+  204  ls
+  205  cd ..
+  206  cd data
+  207  ls
+  208  cd ..
+  209  history >> 2203103_history.txt
